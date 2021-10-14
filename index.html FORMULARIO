@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>FORMULARIO</title>
+</head>
+<body>
+    <section>
+        <input type="text" name="Nombres" id="Cédula" placeholder="Ingrese Su Nombre"
+        <input type="text" name="Nombres" id="Cédula" placeholder="Compañía"
+        <input type="text" name="Nombres" id="Cédula" placeholder="Ingrese Su Correo
+    </section>
+</body>
+</html>
